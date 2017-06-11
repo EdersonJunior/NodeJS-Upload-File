@@ -1,0 +1,23 @@
+{
+  "name": "uploadfile",
+  "version": "1.0.0",
+  "description": "doing a simple upload file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdersonJunior/NodeJS-Upload-File.git"
+  },
+  "author": "EdersonJunior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdersonJunior/NodeJS-Upload-File/issues"
+  },
+  "homepage": "https://github.com/EdersonJunior/NodeJS-Upload-File#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-fileupload": "^0.1.3"
+  }
+}
